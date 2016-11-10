@@ -6,6 +6,4 @@ services:
       context: .
       dockerfile: Dockerfile.app
     ports:
-     - "5000:5000"
-    volumes:
-     - .:/code
+     - "8080:8080"

@@ -1,11 +1,4 @@
-aiodns==1.1.1
 aioes==0.6.1
 aiohttp==1.1.1
-async-timeout==1.1.0
-cchardet==1.1.1
-chardet==2.3.0
-multidict==2.1.2
-pycares==2.1.1
-yarl==0.7.0
 
-git+https://github.com/anti-social/elasticmagic@b0ab8ed752e5ff1ecd012c0ced3b1bcd965f7e3f
+git+https://github.com/anti-social/elasticmagic
